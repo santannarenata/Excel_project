@@ -1,1 +1,2 @@
-# excel_challenge
+Instructions:
+Kickstart My Chart
